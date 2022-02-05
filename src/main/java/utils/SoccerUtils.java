@@ -18,6 +18,7 @@ public class SoccerUtils {
     public static final String CLOSE_LINE = " |";
     public static final String LINE = "\n----------------------------------------------------------------------------";
 
+
     /* Method for converting string array to map */
     public static Map<String, String> convertToMap(String[] splitString) {
         Map<String, String> map = new HashMap<>();

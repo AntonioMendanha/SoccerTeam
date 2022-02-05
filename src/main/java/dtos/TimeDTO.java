@@ -21,13 +21,9 @@ import static utils.SoccerUtils.LINE;
 public class TimeDTO {
 
     private String home;
-
     private String visitor;
-
     private String homeScoreboard;
-
     private String visitorsScoreboard;
-
     private LocalDate day;
 
     @Override

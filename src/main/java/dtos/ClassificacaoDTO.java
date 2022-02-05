@@ -14,13 +14,9 @@ import static utils.SoccerUtils.LINE;
 public class ClassificacaoDTO {
 
     private String nameClub;
-
     private Integer wins;
-
     private Integer draws;
-
     private Integer defeats;
-
     private Integer points;
 
     public ClassificacaoDTO() {

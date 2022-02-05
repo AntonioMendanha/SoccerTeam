@@ -31,7 +31,7 @@
 > - generate files for each team with the matches <br />
 > - generate a file with final results (arranging by total points: win = 3 points and draw = 1 point) <br />
 > 
-> Obrigatory <br />
+> <b>Obrigatory</b> <br />
 >- Object-Oriented Progaming (OOP) <br />
 >- Use Maven or Gradle <br />
 >- Use a minimum of 2 dependencies <br />

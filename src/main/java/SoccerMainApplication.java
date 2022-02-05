@@ -1,9 +1,10 @@
 import com.fasterxml.jackson.databind.ObjectMapper;
 import dtos.ClassificacaoDTO;
 import dtos.TimeDTO;
-import org.apache.commons.lang3.StringUtils;
 import utils.Config;
 import utils.SoccerUtils;
+
+import org.apache.commons.lang3.StringUtils;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;

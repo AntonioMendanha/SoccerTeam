@@ -21,7 +21,7 @@ public enum ClubFields {
     /* Método de filtragem da linha */
     public static String findByIndex(Integer index) {
         for (ClubFields clubFields : values()) {
-            if ( clubFields.getIndex().equals(index) ) return clubFields.getDescription();
+            if (clubFields.getIndex().equals(index)) return clubFields.getDescription();
         }
         throw new IllegalArgumentException();
     }

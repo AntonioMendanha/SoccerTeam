@@ -10,5 +10,4 @@ public class Config {
     public static final String CLASSIFICATION_FILE = "Classificacao";
     public static final String TEAM_HEADER= "time_1(mandante);time2(visitante);placar_time_1;placar_time_2;data_hora";
     public static final String CLASSIFICATION_HEADER= "Time;Vitórias;Empates;Derrotas;Pontos";
-
 }
